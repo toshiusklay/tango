@@ -18,7 +18,7 @@
 
 ## 🌐 Try it Online — No Install Required
 
-**Hosted version:** [https://dev.muapi.ai/open-lovart](https://dev.muapi.ai/open-lovart)
+**Hosted version:** [https://dev.muapi.ai/open-lovart](https://dev.muapi.ai/assistant)
 
 Run the design agent directly in your browser — no Node.js, no setup. Sign up for a free account to start designing. The hosted version is always up to date with the latest models, planners, and templates.
 
